@@ -1,0 +1,4 @@
+/* Before converting a document from html to doc/docx convert all the content including white spaces, special symbols into ASCII (Decimal Values) 
+  before creating a blob or file and mention specific font for that specific stream of characters for it. prefer "Segou UI Symbol" over "Wingdings"
+  font for symbols */
+  
